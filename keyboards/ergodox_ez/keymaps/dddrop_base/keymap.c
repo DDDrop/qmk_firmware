@@ -19,7 +19,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
         TG(MCCR),KC_6,KC_7,KC_8,KC_9,KC_0,KC_ESCAPE,
         KC_MINUS,KC_Y,KC_U,KC_I,KC_O,KC_P,_______,
-        KC_H,KC_J,KC_K,KC_L,_______,_______,
+        KC_H,KC_J,KC_K,KC_L,KC_SCLN,_______,
         MEH_T(KC_NO),KC_N,KC_M,KC_COMMA,KC_DOT,LT(SYMB,KC_SLASH),KC_RSHIFT,
         KC_LGUI,KC_LBRACKET,KC_RBRACKET,LT(MCCR,KC_BSLASH),TG(GAME),
 
