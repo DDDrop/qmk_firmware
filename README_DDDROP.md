@@ -19,8 +19,8 @@ brew install teensy_loader_cli
 ## 编译生成 HEX 文件
 
 ```
-// make __KEYBOARD_NAME__:__KEYMAP_NAME__
-make ergodox_ez:default
+// make __KEYBOARD_NAME__-__KEYMAP_NAME__
+make ergodox_ez-dddrop_dev
 ```
 
 ## 烧制
